@@ -1,4 +1,11 @@
-varios/1/certs
-.DS_Store
-*.tfstate
-extra/
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+node_modules/
+bin/
+obj/
+.vs/
